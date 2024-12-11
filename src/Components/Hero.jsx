@@ -26,7 +26,7 @@ const Hero = () => {
             I am enthusiastic about joining a team where I can contribute to meaningful projects while developing my expertise as a web developer. If you’re looking for a motivated individual to help build your next project, I’d love to hear from you!
           </p>
           <a
-            href=""
+            href="https://drive.google.com/file/d/1zYoxmVWa6vFLeP-FgvlD4Py9iJcG1Nhq/view?usp=drive_link"
             className="bg-white p-3 rounded-xl text-stone-800  text-xs relative left-4 "
             data-aos="fade-right" 
             data-aos-duration="1500"
