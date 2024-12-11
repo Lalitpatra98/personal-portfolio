@@ -3,8 +3,3 @@
 @tailwind utilities;
 
 
-:root{
-  font-family: "inter" ,sans-serif;
-  background: #212121;
-  color: white;
-}
